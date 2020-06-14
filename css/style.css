@@ -1,0 +1,65 @@
+
+body{
+  margin: 0 ;
+  padding: 0;
+}
+
+.conatiner{
+
+  width: 1200px;
+  margin:0px auto;
+ 
+}
+
+.photos{
+  text-align: center;
+}
+
+.heading{
+  text-align: center;
+
+}
+.blue {
+  color:blue;
+}
+.green{
+  color:green;
+}
+.red{
+  color:red;
+}
+.orange{
+  color:orange;
+}
+
+.main-image{
+ 
+}
+
+.img img{
+  max-width: 100%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.another-heading h1{
+  font-size: 35px;
+  text-align: left
+}
+
+
+.another-heading p{
+
+  color:navy blue;
+  text-align: justify;
+}
+
+.another-heading h2{
+
+  font-size: 40px;
+  text-align: center;
+  background-color:seagreen;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: white;
+}
